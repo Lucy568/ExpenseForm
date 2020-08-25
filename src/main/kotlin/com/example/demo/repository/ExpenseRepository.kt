@@ -1,5 +1,10 @@
 package com.example.demo.repository
-
-interface ExpenseRepository : JpaRepository{
-
-}
+//
+//import com.example.demo.model.ExpenseForm
+//import org.springframework.data.jpa.repository.JpaRepository
+//import org.springframework.stereotype.Repository
+//
+//@Repository
+//interface ExpenseRepository : JpaRepository<ExpenseForm,Int>{
+//
+//}
